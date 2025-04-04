@@ -19,35 +19,38 @@ function About() {
 
         {/* Right Content - About Text */}
         <div className="md:w-2/3 text-center md:text-left">
-          <h1 className="text-3xl md:text-4xl font-bold text-blue-700 mb-4">
+          <h1 className="text-2xl md:text-4xl font-bold text-blue-700 mb-4">
             About Me
           </h1>
-          <p className="text-xl mb-2">
-            🚀 Partner with us & watch your investments grow!
+          <p className=" md:text-2xl text-left mb-2">
+            🚀 Grow Your Wealth with Smart Business Investments
           </p>
 
-          <p className="text-gray-700 text-lg leading-relaxed">
-            Fueling Business Growth, Sharing Success <br />
-            Haresh Pandya is a seasoned financial expert and investment
-            strategist specializing in business funding and profit-sharing
-            partnerships. Unlike traditional investors who rely on stock market
-            trends, he helps businesses grow by providing capital investments in
-            exchange for a percentage of their profits.
+          <p className="text-gray-700 text-left text-sm md:text-lg leading-relaxed">
+            Invest in Businesses, Not the Stock Market! <br /> Haresh Pandya is
+            a financial expert and investment strategist who helps businesses
+            scale through funding partnerships. Instead of gambling on stock
+            market fluctuations, we invest directly in businesses and share in
+            their success.
           </p>
-          <p>
-            💡 Our mission? To create a sustainable investment model that
-            benefits businesses while ensuring consistent, risk-free profits for
+          <br />
+          <p className="text-gray-700 text-left text-sm md:text-lg leading-relaxed">
+            💡 How It Works <br />
+            We provide capital to growing businesses and earn returns through a
+            structured profit-sharing model—ensuring stable, risk-free gains for
             our investors.
-          </p>
-          <p>
-            🌟 Why choose us?
+          </p><br />
+          <p className="text-gray-700 text-left text-sm md:text-lg leading-relaxed">
+            🌟 Why Partner With Us? Take control of your financial future
+            with smart, strategic investments!
             <ul>
-              <li>✅ No stock market risks</li>
-              <li>✅ Direct business partnerships</li>
-              <li>✅ Guaranteed profit-sharing model</li>
-              <li>✅ Smart investments with high ROI</li>
+              <li> ✔️ No reliance on market speculation</li>
+              <li>✔️ Transparent and secure profit-sharing</li>
+              <li>✔️ High-growth investment opportunities</li>
+              <li>✔️ Sustainable wealth-building strategy</li>
             </ul>
-            📈 Invest in businesses, not speculation!
+            📈 Take control of your financial future with smart, strategic
+            investments!
           </p>
         </div>
       </div>

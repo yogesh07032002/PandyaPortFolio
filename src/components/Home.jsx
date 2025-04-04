@@ -11,9 +11,9 @@ function Home() {
         
         {/* Left Content */}
         <div className="md:w-1/2 text-center md:text-left space-y-5">
-          <span className="text-lg font-semibold text-gray-600 tracking-wider">Welcome To My Portfolio</span>
+          <span className="text-sm md:text-lg font-semibold text-gray-600 tracking-wider">Welcome To My Portfolio</span>
           
-          <h1 className="text-3xl md:text-5xl font-bold text-gray-800 leading-tight">
+          <h1 className="text-xl md:text-5xl text-left  font-bold text-gray-800 leading-tight">
             Hello, I am <br />
             <span className="text-blue-700">
               <ReactTyped 
@@ -24,8 +24,9 @@ function Home() {
               />
             </span>
           </h1>
-          <p className="text-2xl text-red-800">Smart Investments, Profitable Partnerships!</p>
-          <p className="text-gray-700 text-lg leading-relaxed">
+          <p className="text-sm md:text-2xl  text-red-800 font-bold">OUR GENUINE PROMISE</p>
+          <p className="text-sm md:text-2xl text-red-800">Smart Investments, Profitable Partnerships!</p>
+          <p className="text-gray-700 text-sm md:text-lg leading-relaxed text-start">
             I am <span className="font-semibold text-blue-800">Haresh Pandya</span>, an experienced financial advisor and proprietor, 
             dedicated to helping individuals and businesses maximize their wealth 
             through strategic investment planning, fund management, and portfolio growth.

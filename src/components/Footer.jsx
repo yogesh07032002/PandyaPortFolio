@@ -19,9 +19,9 @@ function Footer() {
            
 
             </div> <hr /> */}
-            <div className=" border-gray-700 pt-0 mt-0 flex flex-col items-center">
+            <div className=" border-gray-700 pt-0 mt-0 text-center flex flex-col items-center">
               <p>
-                 Design & Develope by ArrayLogic Softwares Pvt. Ltd.
+                 Design & Developed by <br />ArrayLogic Softwares Pvt. Ltd.
               </p>
             </div>
           </div>

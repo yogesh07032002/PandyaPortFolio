@@ -10,6 +10,10 @@ const images = [
   "/gallery4.jpeg",
   "/gallery5.jpeg",
   "/gallery6.jpeg",
+  "/gallery7.jpeg",
+  "/gallery8.jpeg",
+  "/gallery9.jpeg",
+ 
 ];
 
 function Gallery() {
