@@ -38,7 +38,7 @@ function Home() {
               <a href="https://www.linkedin.com/in/haresh-pandya" target="_blank" className="text-blue-700 hover:text-blue-900 text-3xl transition-all">
                 <FaLinkedin />
               </a>
-              <a href="https://api.whatsapp.com/send?phone=7862907318" target="_blank" className="text-green-600 hover:text-green-800 text-3xl transition-all">
+              <a href="https://api.whatsapp.com/send?phone=9638724190" target="_blank" className="text-green-600 hover:text-green-800 text-3xl transition-all">
                 <FaWhatsapp />
               </a>
               <a href="https://www.instagram.com/haresh_pandya_advisor" target="_blank" className="text-pink-600 hover:text-pink-800 text-3xl transition-all">
@@ -53,7 +53,7 @@ function Home() {
           {/* Call-to-Action Button */}
           <div className="mt-20">
             <a 
-              href="https://api.whatsapp.com/send?phone=7862907318"
+              href="https://api.whatsapp.com/send?phone=9638724190"
               target="_blank"
               className="bg-blue-700 text-white font-bold px-6 py-3 rounded-lg hover:bg-blue-900 transition-all shadow-md"
             >
