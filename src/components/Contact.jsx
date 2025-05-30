@@ -17,7 +17,7 @@ export const Contact = () => {
       message: data.message,
     };
     try {
-      await axios.post("https://getform.io/f/agdygrjb", userInfo);
+      await axios.post("https://getform.io/f/bvrywomb", userInfo);
       toast.success("Your Message Has Been Sent!");
     } catch (error) {
       console.log(error);
@@ -26,7 +26,7 @@ export const Contact = () => {
   };
 
   return (
-    <div  name="Contact" className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16">
+    <div name="Contact" className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16">
       <h1 className="text-4xl font-bold text-center text-blue-700">
         Get in Touch
       </h1>
